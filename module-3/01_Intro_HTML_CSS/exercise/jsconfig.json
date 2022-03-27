@@ -1,7 +1,0 @@
-// This file enables intellisense for Cypress commands to work in vscode
-{
-    "include": [
-        "./node_modules/cypress",
-        "cypress/**/*.js"
-    ]
-}
