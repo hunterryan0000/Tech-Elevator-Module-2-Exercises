@@ -7,7 +7,7 @@ from them using simple queries
 
 ### Ordering Limiting and Grouping
 - Learrn how to order and group SQL queries
-- 
+
 ### SQL Joins
 - Learn how to join tables in SQL
 
